@@ -3,7 +3,6 @@ import '../../styles/components/App.styl';
 import React from 'react';
 
 // Components
-import Loading from '../../shared/Loading/Loading';
 import Header from '../../components/Header';
 import About from '../../components/About';
 
@@ -25,27 +24,26 @@ const App = () => {
   };
 
   React.useEffect(()=> {
-    featchData();
+      featchData();
   }, []);
 
   
   return (
     <React.Fragment>
-      {!data && <Loading />}
-      <div className ="MainContainer">
-        <Header data={data}>
-          <About data={data}/> 
-        </Header>
-        <Profile data={data}/>
-        <Experience experience={data.experience}/>
-        <div className ="sectionContainer">
-          <Academic data={data}/>
-          <Skills data={data}/>
-        </div>
-        <div className ="sectionContainer">
-          <Interest data={data}/>
-          <Languages data={data}/>
-        </div>
+        <div className ="MainContainer">
+          <Header data={data}>
+            <About data={data}/> 
+          </Header>
+          <Profile data={data}/>
+          <Experience experience={data.experience}/>
+          <div className ="sectionContainer">
+            <Academic academic={data.Academic}/>
+            <Skills skills={data.skills}/>
+          </div>
+          <div className ="sectionContainer">
+            <Interest interests={data.interest}/>
+            <Languages languages={data.languages}/>
+          </div>
       </div>
     </React.Fragment>
   )
