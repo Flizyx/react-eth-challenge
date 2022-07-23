@@ -1,0 +1,45 @@
+[33mcommit 4f10ab74639f1f9b7916a9d0e78db96bd78f5de4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: flizyx <nicolizarazo19@gmail.com>
+Date:   Sat Jul 23 12:50:40 2022 -0500
+
+    [FEAT] Adición de API
+    
+    Se adicionó el api que se va a consumir para el proyecto
+    
+    by: Flizyx
+
+[33mcommit 50f6cdd12125601db74e07baaa5b09b10774d8cd[m
+Author: flizyx <nicolizarazo19@gmail.com>
+Date:   Sat Jul 23 10:28:03 2022 -0500
+
+    added about 2
+
+[33mcommit ef7d76359f427207f72be0a3f3fbc484e8fb7335[m
+Author: flizyx <nicolizarazo19@gmail.com>
+Date:   Sat Jul 23 10:27:50 2022 -0500
+
+    added about
+
+[33mcommit 14a67cac508732673c848f17752fbeefd33ab568[m
+Author: flizyx <nicolizarazo19@gmail.com>
+Date:   Sat Jul 16 09:06:33 2022 -0500
+
+    forked
+
+[33mcommit 8c8cff915e5373bbbcf8aa9f95f29952ff1769d6[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: Oscar Barajas Tavares <oscar@gndx.dev>
+Date:   Tue Jul 5 17:09:40 2022 -0500
+
+    Update README.md
+
+[33mcommit e824d5507d2e4823b6058711c8d78afa6868ff4f[m
+Author: Oscar Barajas <oscar@gndx.dev>
+Date:   Tue Jul 5 15:12:46 2022 -0500
+
+    :bug: [FIX] Screenshot
+
+[33mcommit 440befcbc257b886015bd050666a21a3bec6c244[m
+Author: Oscar Barajas <oscar@gndx.dev>
+Date:   Tue Jul 5 15:11:13 2022 -0500
+
+    :sparkles: [ADD] Initial Commit
