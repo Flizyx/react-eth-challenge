@@ -1,20 +1,16 @@
 import React from 'react'
-// import About from '../About';
+// const photo = '../../Assets/Images/profile.jpg'
+import './Header.css'
 
 const Header = (props) => {
     return (
         <>
-        {props.child}
+            <div className="HeaderContainer">
+                <h4 className="Header-title">{props.data.name}</h4>
+                <img src={props.data.avatar} alt="ProfilePic" />
+                {props.children}
+            </div>
         </>
-        // <div>
-        //     <li>
-        //         <p>
-        //             Test
-        //         {/* <div>Imagine a {props.color} datepicker here.</div>; */}
-        //                {/* <About color="red" />; */}
-        //         </p>
-        //     </li>
-        // </div>
     )
 }
 
