@@ -1,91 +1,97 @@
 {
   "data": {
-    "name": "Melissa Walsh",
+    "name": "NIcolas lizarazo",
     "profession": "FrontEnd Developer",
     "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "email": "contacto.nicolaslizarazo@gmail.com",
+    "website": "https://www.linkedin.com/in/nicolaslizarazo/",
+    "phone": "3219211431",
+    "avatar": "https://cdn.beacons.ai/user_content/4wMMuvbQsUOEUshUi0BFwzr7Kla2/profile_flizyx.png?t=1631832631763",
+    "Profile": "En constante crecimiento, desarrollando todos los dias y creando en todo lo relacionado con tecnologia y arte - experiencia en multiples campos de la tecnología",
     "certificate": [
       {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
-        "institution": "Platzi",
-        "name": "FrontEnd Developer"
+        "date": "jan. 2016",
+        "description": "Sistemas de control, electronica, programacion, diseño mecanico, automatizacion industrial",
+        "institution": "Universidad miltiar nueva granada",
+        "name": "BS, Ingenieria Mecatronica"
       },
       {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
-        "institution": "Platzi",
-        "name": "Backend Developer"
+        "date": "Nov 2021",
+        "description": "bootcamp con Near protocol implementado con diferentes tecnologias blockchain",
+        "institution": "Blockchain academy Mexico",
+        "name": "Blockchain developer bootcamp"
+      },
+      {
+        "date": "Platzi",
+        "description": "bootcamp con Near protocol implementado con diferentes tecnologias blockchain",
+        "institution": "Blockchain academy Mexico",
+        "name": "Programacion estructurada, Creación de cultura para startups, marca personal"
       }
     ],
     "Academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
+        "degree": "BS, Ingenieria Mecatronica",
+        "description": " Sistemas de control, electronica, programacion, diseño mecanico, automatizacion industrial",
         "endDate": "Jan 2017",
-        "institution": "MIT",
+        "institution": "Universidad miltiar nueva granada",
         "startDate": "Jan 2018"
       },
       {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
+        "degree": "Near protocol bootcamp",
+        "description": "Smart contracts development and deployment with solidity, rust, assemblyscript with evm compatible blockchains like near",
+        "endDate": "Nov 2021",
+        "institution": "",
+        "startDate": "oct 2021"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
-        "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "company": "Bido music",
+        "endDate": "Jun 2022",
+        "jobDescription": "Fullstack development with django, aws, html,javascript and CSS",
+        "jobTitle": "Fullstack developer, tech lead",
+        "startDate": "Jun 2020"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "Autonomo system",
+        "endDate": "Nov 2018",
+        "jobDescription": "Fullstack development with Angular and ASP .NET core",
+        "jobTitle": "Fullstack development",
+        "startDate": "jan 2020"
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "100%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "100%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "90%"
       },
       {
         "name": "React",
-        "percentage": "90%"
+        "percentage": "70%"
       }
     ],
     "interest": [
-      "javascript",
-      "develop",
-      "backend",
-      "frontend"
+      "Machine learning",
+      "Web 3",
+      "Startups",
+      "Programacion"
     ],
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "percentage": "Nativo"
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "C1"
       }
     ],
     "social": [
